@@ -1,0 +1,2 @@
+# tutorial_for_generation_of_percentileSummary_of_data
+Calculate mean, standard deviation
